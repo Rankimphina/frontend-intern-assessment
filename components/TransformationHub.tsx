@@ -43,7 +43,7 @@ export default function TransformationHub() {
     <div className="mt-5 grid gap-5 md:grid-cols-2">
       
       {/* Image */}
-      <div className="relative aspect-[16/10] overflow-hidden">
+      <div className="relative h-[250px] overflow-hidden">
         <Image
           src="/images/transformation-hub.jpg"
           alt="Professionals participating in the Transformation Hub webinar"
